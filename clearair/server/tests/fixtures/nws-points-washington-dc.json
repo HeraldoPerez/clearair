@@ -1,0 +1,41 @@
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -77.0352,
+      38.8894
+    ]
+  },
+  "properties": {
+    "@id": "https://api.weather.gov/points/38.8894,-77.0352",
+    "gridId": "LWX",
+    "gridX": 97,
+    "gridY": 71,
+    "forecast": "https://api.weather.gov/gridpoints/LWX/97,71/forecast",
+    "forecastHourly": "https://api.weather.gov/gridpoints/LWX/97,71/forecast/hourly",
+    "relativeLocation": {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0165243,
+          38.9042429
+        ]
+      },
+      "properties": {
+        "city": "Washington",
+        "state": "DC",
+        "distance": {
+          "unitCode": "wmoUnit:m",
+          "value": 0
+        },
+        "bearing": {
+          "unitCode": "wmoUnit:degree_(angle)",
+          "value": 0
+        }
+      }
+    },
+    "timeZone": "America/New_York"
+  }
+}
