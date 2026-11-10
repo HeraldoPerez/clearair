@@ -15,7 +15,7 @@ A note on AirNow: AirNow retired its old "forecast by ZIP code" API on September
 Needs Node 22.9 or newer.
 
 ```bash
-git clone https://github.com/Khalick/clearair.git
+git clone https:https://github.com/HeraldoPerez/clearair
 cd clearair
 cp .env.example .env   # optional for now; the AirNow key will be needed later
 
